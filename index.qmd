@@ -1,0 +1,17 @@
+---
+title: "Macey Simelane psy6422"
+author: "Macey Simelane"
+format: html
+editor: visual
+---
+
+# Overview 
+
+instert some text with an overview of project or document here
+
+# Adding Some Code
+
+```{r}
+data(mtcars) 
+plot(mtcars$hp,mtcars$mpg)
+```
