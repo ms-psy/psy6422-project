@@ -15,3 +15,7 @@ instert some text with an overview of project or document here
 data(mtcars) 
 plot(mtcars$hp,mtcars$mpg)
 ```
+
+# Link to Another Quarto File 
+
+Click [here](another quarto.html) for another page of this document.

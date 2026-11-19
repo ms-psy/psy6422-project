@@ -1,0 +1,9 @@
+---
+title: "Macey Simelane Another Quarto Document"
+format: html
+editor: visual
+---
+
+# Another Quarto Document 
+
+This is my new quarto document that links from my home page.
